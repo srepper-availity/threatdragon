@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "title": "BX835ThreatModel",
+    "owner": "srepper-availity"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "BX835ThreatModel",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "srepper-availity"
+  }
+}
