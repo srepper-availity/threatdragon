@@ -72,8 +72,8 @@
                 "height": 100
               },
               "position": {
-                "x": 449,
-                "y": 192
+                "x": 378,
+                "y": 214
               },
               "angle": 0,
               "id": "588d226a-ff3b-4b53-93be-71d2fd128ea4",
@@ -580,7 +580,12 @@
               "target": {
                 "id": "bd0e93f0-6970-4b45-b84a-2e2f234de8df"
               },
-              "vertices": [],
+              "vertices": [
+                {
+                  "x": 445,
+                  "y": 356
+                }
+              ],
               "id": "6ccc19a0-16dd-4df2-b709-ff1d335ca00b",
               "labels": [
                 {
@@ -614,7 +619,12 @@
               "target": {
                 "id": "10bb2a3b-dd82-441b-a877-3d21fc347b5a"
               },
-              "vertices": [],
+              "vertices": [
+                {
+                  "x": 619,
+                  "y": 327
+                }
+              ],
               "id": "7993a190-4f90-4aed-9cde-5087f2245702",
               "labels": [
                 {
@@ -629,6 +639,48 @@
                 }
               ],
               "z": 21,
+              "hasOpenThreats": false,
+              "attrs": {
+                ".marker-target": {
+                  "class": "marker-target hasNoOpenThreats isInScope"
+                },
+                ".connection": {
+                  "class": "connection hasNoOpenThreats isInScope"
+                }
+              }
+            },
+            {
+              "type": "tm.Flow",
+              "smooth": true,
+              "source": {
+                "id": "bd0e93f0-6970-4b45-b84a-2e2f234de8df"
+              },
+              "target": {
+                "id": "f9f60964-f6e1-44c4-98d5-616aa82a99ae"
+              },
+              "vertices": [
+                {
+                  "x": 557,
+                  "y": 247
+                }
+              ],
+              "id": "6a82a9a5-e069-4329-8041-f8407a87f0a5",
+              "labels": [
+                {
+                  "position": {
+                    "distance": 0.49799924226213166,
+                    "offset": -2.648031207997489
+                  },
+                  "attrs": {
+                    "text": {
+                      "text": "HTTPS POST",
+                      "font-weight": "400",
+                      "font-size": "small"
+                    }
+                  }
+                }
+              ],
+              "z": 22,
               "hasOpenThreats": false,
               "attrs": {
                 ".marker-target": {
